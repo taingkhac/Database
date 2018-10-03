@@ -1,0 +1,15 @@
+E:\CodeDemo\TestOnlineV1\TestOnlineV1\bin\Debug\TestOnlineV1.exe.config
+E:\CodeDemo\TestOnlineV1\TestOnlineV1\bin\Debug\TestOnlineV1.exe
+E:\CodeDemo\TestOnlineV1\TestOnlineV1\bin\Debug\TestOnlineV1.pdb
+E:\CodeDemo\TestOnlineV1\TestOnlineV1\obj\Debug\TestOnlineV1.AddQuestion.resources
+E:\CodeDemo\TestOnlineV1\TestOnlineV1\obj\Debug\TestOnlineV1.ManagaQuestion.resources
+E:\CodeDemo\TestOnlineV1\TestOnlineV1\obj\Debug\TestOnlineV1.ManageExam.resources
+E:\CodeDemo\TestOnlineV1\TestOnlineV1\obj\Debug\TestOnlineV1.startexam.resources
+E:\CodeDemo\TestOnlineV1\TestOnlineV1\obj\Debug\TestOnlineV1.hethong.resources
+E:\CodeDemo\TestOnlineV1\TestOnlineV1\obj\Debug\TestOnlineV1.Login.resources
+E:\CodeDemo\TestOnlineV1\TestOnlineV1\obj\Debug\TestOnlineV1.Properties.Resources.resources
+E:\CodeDemo\TestOnlineV1\TestOnlineV1\obj\Debug\TestOnlineV1.csproj.GenerateResource.cache
+E:\CodeDemo\TestOnlineV1\TestOnlineV1\obj\Debug\TestOnlineV1.csproj.CoreCompileInputs.cache
+E:\CodeDemo\TestOnlineV1\TestOnlineV1\obj\Debug\TestOnlineV1.exe
+E:\CodeDemo\TestOnlineV1\TestOnlineV1\obj\Debug\TestOnlineV1.pdb
+E:\CodeDemo\TestOnlineV1\TestOnlineV1\obj\Debug\TestOnlineV1.csprojAssemblyReference.cache

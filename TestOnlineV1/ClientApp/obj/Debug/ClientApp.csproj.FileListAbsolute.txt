@@ -1,0 +1,11 @@
+E:\CodeDemo\TestOnlineV1\ClientApp\bin\Debug\ClientApp.exe.config
+E:\CodeDemo\TestOnlineV1\ClientApp\bin\Debug\ClientApp.exe
+E:\CodeDemo\TestOnlineV1\ClientApp\bin\Debug\ClientApp.pdb
+E:\CodeDemo\TestOnlineV1\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
+E:\CodeDemo\TestOnlineV1\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+E:\CodeDemo\TestOnlineV1\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+E:\CodeDemo\TestOnlineV1\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+E:\CodeDemo\TestOnlineV1\ClientApp\obj\Debug\ClientApp.exe
+E:\CodeDemo\TestOnlineV1\ClientApp\obj\Debug\ClientApp.pdb
+E:\CodeDemo\TestOnlineV1\ClientApp\obj\Debug\ClientApp.Form1.resources
+E:\CodeDemo\TestOnlineV1\ClientApp\obj\Debug\ClientApp.LoginStudent.resources
